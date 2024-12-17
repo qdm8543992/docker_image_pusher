@@ -13,8 +13,9 @@ nyanmisaka/jellyfin
 hsuyelin/nas-tools
 deluan/navidrome
 taksss/php-epg
-qbittorrent
 hslr/sun-panel
 mzz2017/v2raya
 containrrr/watchtower
 lmmich
+johngong/qbittorrent
+superng6/qbittorrentee
