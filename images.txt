@@ -16,6 +16,5 @@ taksss/php-epg
 hslr/sun-panel
 mzz2017/v2raya
 containrrr/watchtower
-lmmich
 johngong/qbittorrent
-superng6/qbittorrentee
+docker.io/superng6/qbittorrentee
