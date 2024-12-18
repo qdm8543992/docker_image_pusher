@@ -1,4 +1,3 @@
-nginx
 fooololo/aipan-netdisk-search
 xhofe/alist
 youshandefeiyang/allinone
