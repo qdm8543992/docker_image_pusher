@@ -19,5 +19,5 @@ johngong/qbittorrent
 docker.io/superng6/qbittorrentee
 linkease/ddnsto
 ghcr.io/immich-app/immich-server
-docker.io/redis
+docker.io/redis:6.2-
 docker.io/tensorchord/pgvecto-rs:pg14-
