@@ -18,3 +18,4 @@ containrrr/watchtower
 johngong/qbittorrent
 docker.io/superng6/qbittorrentee
 linkease/ddnsto
+xxxsen/yamdc
