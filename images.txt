@@ -20,3 +20,4 @@ docker.io/superng6/qbittorrentee
 linkease/ddnsto
 suwmlee/ikaros
 radrootllc/karaoke-eternal
+wukongdaily/box
